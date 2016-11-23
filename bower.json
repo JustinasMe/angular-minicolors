@@ -1,7 +1,7 @@
 {
   "name": "angular-minicolors",
   "version": "0.0.9",
-  "homepage": "https://github.com/kaihenzler/angular-minicolors",
+  "homepage": "https://github.com/JustinasMe/angular-minicolors",
   "authors": [
     "Kai Henzler <kai.henzler@gmx.de>"
   ],
@@ -16,7 +16,7 @@
   ],
   "main": "angular-minicolors.js",
   "dependencies": {
-    "github.com/JustinasMe/jquery-minicolors": "2.2.4"
+    "github.com/JustinasMe/jquery-minicolors": "master"
   },
   "license": "MIT",
   "ignore": [
