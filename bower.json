@@ -16,7 +16,7 @@
   ],
   "main": "angular-minicolors.js",
   "dependencies": {
-    "jquery-minicolors": "git@github.com:JustinasMe/jquery-minicolors#dae9e54f6d271f524878a70c2d7b70b06242052a"
+    "jquery-minicolors": "git@github.com:JustinasMe/jquery-minicolors#8e0f544f01c157e7c60bc7b49aa32bfd66b22910"
   },
   "license": "MIT",
   "ignore": [
