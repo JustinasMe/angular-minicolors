@@ -1,6 +1,6 @@
 {
   "name": "angular-minicolors",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "description": "A wrapper around JQuery MiniColors by Cory LaViska",
   "main": "angular-minicolors.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/JustinasMe/angular-minicolors#readme",
   "peerDependencies": {
-    "jquery-minicolors": "^2.1.10",
+    "jquery-minicolors": "^2.2.6",
     "angular": "^1.4.0"
   }
 }
